@@ -1,1 +1,1 @@
-Flying Red Bird is a simple 2d Flappy bird inspired game where players control a bird, navigating it trough a series of obstacles by pressingthe designeted key to keep the bird in the air. The goal is to pass trough pipes without crashing increase your score 
+Flying Red Bird is a simple 2d Flappy bird inspired game where players control a bird, navigating it trough a series of obstacles by pressingthe designeted key to keep the bird in the air. The goal is to pass trough pipes without crashing increase your score     
